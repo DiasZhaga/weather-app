@@ -16,7 +16,7 @@ This is a web application that provides weather information, location details, a
 - Google Maps API key
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `git clone https://github.com/Dias-Zhaga/weather-app.git`
 2. Navigate to the project folder: `cd your-repository`
 3. Install dependencies: `npm install`
 4. Create a `.env` file in the root directory with the following keys:
