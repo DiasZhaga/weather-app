@@ -17,11 +17,10 @@ This is a web application that provides weather information, location details, a
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/Dias-Zhaga/weather-app.git`
-2. Navigate to the project folder: `cd your-repository`
-3. Install dependencies: `npm install`
-4. Create a `.env` file in the root directory with the following keys:
-5. Start the application: `npm start`
-6. Open your browser and visit `http://localhost:3000`
+2. Install dependencies: `npm install`
+3. Create a `.env` file in the root directory with the following keys:
+4. Start the application: `npm start`
+5. Open your browser and visit `http://localhost:3000`
 
 ## Configuration
 - `OPENWEATHER_API_KEY`: Obtain your API key from [OpenWeatherMap](https://openweathermap.org/api).
